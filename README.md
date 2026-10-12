@@ -2,7 +2,11 @@
 
 <p align="center">
   <a href="https://robinersd.vercel.app">
-    <img src="./waving_name.gif" alt="Hi there, I'm Robinersd" width="100%" style="max-width: 750px;" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./waving_name_dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./waving_name_light.gif">
+      <img src="./waving_name_dark.gif" alt="Hi there, I'm Robinersd" width="100%" style="max-width: 750px;" />
+    </picture>
   </a>
 </p>
 
@@ -18,9 +22,11 @@
 
 <br />
 
-<div>
-  <a href="https://robinersd.vercel.app/"><img align="right" src="./developer.gif" alt="Coding at desk" width="280" /></a>
-</div>
+<p align="center">
+  <a href="https://robinersd.vercel.app/">
+    <img src="./developer.gif" alt="Coding at desk" width="200" />
+  </a>
+</p>
 
 ### 🧑‍💻 About Me
 
