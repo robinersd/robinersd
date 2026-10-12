@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey%2C%20I'm%20Robiner!%20👋&fontSize=45&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Web%20Developer&descAlignY=60&descColor=a8b2d8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey%2C%20I'm%20Robinersd!%20👋&fontSize=45&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Web%20Developer&descAlignY=60&descColor=a8b2d8" width="100%"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```javascript
 const robiner = {
-  name     : "Robiner B. Dahap Jr.",
+  name     : "Robiner sd.",
   course   : "Computer Engineering",
   passion  : ["Web Development", "UI/UX Design", "Problem Solving"],
   tools    : ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
