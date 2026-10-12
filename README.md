@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi there, I'm <a href="https://robinersd.vercel.app">Robinersd</a> <img height="40" alt="Kyubey" src="./kyubey.gif"/></h1>
 
+<p align="center">
+  <img src="./space-header.gif" width="100%" />
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%8E%93;Web+Developer+%26+Tech+Enthusiast+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+connect+and+create!+%E2%9C%A8)](https://git.io/typing-svg)
