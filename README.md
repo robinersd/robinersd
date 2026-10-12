@@ -1,12 +1,11 @@
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+
+<h1 align="center">Hey, I'm Robiner! 👋</h1>
+<h3 align="center">Computer Engineering Student | Web Developer</h3>
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hey%2C%20I'm%20Robinersd!%20👋&fontSize=45&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20Web%20Developer&descAlignY=60&descColor=a8b2d8" width="100%"/>
-
-</div>
-
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+a+Computer+Engineering+Student;I+build+cool+web+experiences+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+connect+and+create!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+a+Computer+Engineering+Student;I+build+cool+web+experiences+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+connect+and+create!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ```javascript
 const robiner = {
-  name     : "Robiner sd.",
+  name     : "Robiner B. Dahap Jr.",
   course   : "Computer Engineering",
   passion  : ["Web Development", "UI/UX Design", "Problem Solving"],
   tools    : ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
@@ -75,10 +74,8 @@ const robiner = {
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
-
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=robinersd.robinersd&color=e94560)
 
-  *⭐ Thanks for visiting my profile! Feel free to explore my repositories!* 
+  *⭐ Thanks for visiting my profile! Feel free to explore my repositories!*
 
 </div>
