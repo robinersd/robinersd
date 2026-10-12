@@ -1,7 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center">Hi there, I'm <a href="https://robinersd.vercel.app">Robinersd</a> <img height="40" alt="Kyubey" src="./kyubey.gif"/></h1>
-<h3 align="center">Computer Engineering Student | Web Developer</h3>
+<p align="center">
+  <a href="https://robinersd.vercel.app">
+    <img src="./waving_name.gif" alt="Hi there, I'm Robinersd" width="100%" style="max-width: 750px;" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./space-header.gif" width="100%" />
