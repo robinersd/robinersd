@@ -1,10 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=robinersd&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="robinersd" /></p>
-</div>
-
-<h1 align="center">Hi there, I'm <a href="https://robinersd.vercel.app">Robinersd</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://robinersd.vercel.app">Robinersd</a> <img height="40" alt="Kyubey" src="./kyubey.gif"/></h1>
 
 <div align="center">
 
@@ -14,15 +10,20 @@
 
 <br />
 
+<div>
+  <a href="https://robinersd.vercel.app/"><img align="right" src="./developer.gif" alt="Coding at desk" width="280" /></a>
+</div>
+
 ### 🧑‍💻 About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" align="center" /> Actively learning & coding in the **Philippines** 🇵🇭
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm a **Computer Engineering Student**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align="center" /> Passionate about **Web Development**, **UI/UX Design**, & **Software Engineering**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align="center" /> Currently building my portfolio projects & leveling up my skills
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" /> Eager to collaborate with **Creative Minds** & **Talented Developers**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align="center" /> **Goals:** Master Full-Stack Development & AI integrations 🔥
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="28" align="center" /> Actively learning & coding in the **Philippines** 🇵🇭
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="28" align="center" /> I'm a **Computer Engineering Student**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" align="center" /> Passionate about **Web Development**, **UI/UX Design**, & **Software Engineering**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="28" align="center" /> Currently building my portfolio projects & leveling up my skills
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" align="center" /> Eager to collaborate with **Creative Minds** & **Talented Developers**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="28" align="center" /> **Goals:** Master Full-Stack Development & AI integrations 🔥
 
+<br clear="right" />
 <br />
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="max-width: 100%; vertical-align: middle;"> Let's Connect! </h1>
