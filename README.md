@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center">Hey, I'm Robiner! 👋</h1>
+<h1 align="center">Hey, I'm Robinersd! 👋</h1>
 <h3 align="center">Computer Engineering Student | Web Developer</h3>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ```javascript
 const robiner = {
-  name     : "Robiner B. Dahap Jr.",
+  name     : "Robinersd.",
   course   : "Computer Engineering",
   passion  : ["Web Development", "UI/UX Design", "Problem Solving"],
   tools    : ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
