@@ -26,12 +26,6 @@
 <br clear="right" />
 <br />
 
-<p align="center">
-  <img src="./shooting-stars.gif" width="100%" />
-</p>
-
-<br />
-
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="max-width: 100%; vertical-align: middle;"> Let's Connect! </h1>
 
 <table class="table table-dark">
